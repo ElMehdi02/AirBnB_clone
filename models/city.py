@@ -14,8 +14,8 @@ class City(BaseModel):
     City class for representing cities in the AirBnB clone project.
 
     Attributes:
-    state_id (str): ID of the associated State.
-    name (str): Name of the city.
+        state_id (str): ID of the associated State.
+        name (str): Name of the city.
     """
     state_id = ""
     name = ""
