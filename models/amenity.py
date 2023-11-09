@@ -14,7 +14,7 @@ class Amenity(BaseModel):
     Amenity class for representing amenities in the AirBnB clone project.
 
     Attributes:
-    name (str): Name of the Amenity.
+        name (str): Name of the amenity.
     """
 
     name = ""
