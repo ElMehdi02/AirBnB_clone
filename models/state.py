@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-
 """
 This module defines the State class, which inherits from BaseModel.
 
