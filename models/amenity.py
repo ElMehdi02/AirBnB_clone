@@ -11,7 +11,7 @@ from models.base_model import BaseModel
 
 class Amenity(BaseModel):
     """
-    Amenity class for representing amenities in the AirBnB clone project.
+    Amenity class for representing the amenities in the AirBnB clone project.
 
     Attributes:
         name (str): Name of the amenity.
