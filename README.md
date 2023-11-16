@@ -73,8 +73,9 @@ The project file structure is organized as follows:
 ## Contributors
 
 - Guillaume (Project Mentor)
-- [Bensouda El Mehdi](https://github.com/ElMehdi02/) (Team Member)
-- [El Meftahi Oussama](https://github.com/osmmf/) (Team Member)
+- Bensouda El Mehdi - [Github](https://github.com/ElMehdi02) | [LinkedIn](https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/) (Team Member)
+  
+- El Meftahi Oussama - [Github](https://github.com/osmmf) | [LinkedIn](https://www.linkedin.com/in/oussama-el-meftahi-501991278/) (Team Member)
 
 ## License
 
